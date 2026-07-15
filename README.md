@@ -51,12 +51,25 @@ This system manages the full lifecycle of ICT equipment: from acquisition and as
 
 ## 🖼️ Screenshots
 
-*(Add screenshots here — e.g. Dashboard view, Master Inventory List, Add/Edit form, PAR generation)*
+**Login Screen**
+Clean, branded entry point with username/password authentication.
 
-```
-![Dashboard](screenshots/dashboard.png)
-![Inventory List](screenshots/inventory-list.png)
-```
+![Login Screen](screenshots/login.png)
+
+**Dashboard & Master Inventory List**
+Live summary cards (Total Units, Operational, For Repair, Decommissioned, and Lifespan status) sit above a searchable, sortable master list of all ICT equipment — with peripherals grouped under their parent unit and collapsible by default.
+
+![Dashboard and Inventory List](screenshots/inventory.png)
+
+**Add / Edit ICT Equipment**
+A structured form for adding new equipment, with auto-generated ICT Names, dropdowns for standardized fields, and autocomplete on free-text entries pulled from existing inventory data.
+
+![Add ICT Equipment Form](screenshots/add-equipment.png)
+
+**Sidebar Navigation**
+Role-based action menu — Admin-only tools like Manage Users, Find & Replace, and Export Full Report are hidden from non-Admin accounts.
+
+![Sidebar Navigation](screenshots/sidebar.png)
 
 ---
 
